@@ -1,0 +1,5 @@
+{
+  "name": "Nebula Tic-Tac-Toe",
+  "description": "A modern, AI-enhanced Tic-Tac-Toe game featuring Minimax opponents, Gemini-powered strategy analysis, and generative theme editing.",
+  "requestFramePermissions": []
+}
