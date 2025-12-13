@@ -13,15 +13,15 @@ Real-time turn switching with win/draw detection.
 
 Easy Mode
 
-AI makes basic or random moves.
+  AI makes basic or random moves.
 
-Suitable for beginners.
+  Suitable for beginners.
 
 Hard Mode
 
-AI uses optimal decision-making logic.
+  AI uses optimal decision-making logic.
 
-Provides a challenging and competitive experience.
+  Provides a challenging and competitive experience.
 
 🎨 AI-Generated Dynamic Themes
 
@@ -61,11 +61,11 @@ Styling: Custom CSS / Dynamic theme generation
 
 Easy Mode:
 
-AI selects moves randomly or with simple rules.
+  AI selects moves randomly or with simple rules.
 
 Hard Mode:
 
-AI analyzes the board and selects the best possible move to avoid losing.
+  AI analyzes the board and selects the best possible move to avoid losing.
 
 📌 Future Improvements
 
