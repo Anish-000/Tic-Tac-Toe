@@ -51,11 +51,11 @@ Works smoothly across desktops, tablets, and mobile devices.
 
 🛠️ Tech Stack
 
-Frontend: HTML, CSS, TypeScript
+Frontend: HTML, Tailwind CSS, TypeScript, React
 
-AI Logic: TypeScript-based decision-making (Minimax / rule-based logic)
+AI Logic: Minimax algorithm, React Hooks, ES Modules, Gemini API
 
-Styling: Custom CSS / Dynamic theme generation
+Styling: Tailwind CSS / Dynamic theme generation
 
 🧠 AI Difficulty Explanation
 
